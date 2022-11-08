@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="684a6481-ed55-488d-89dd-3989ac463dfd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cấc cách hiển thị  khác nhau.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cấc cách hiển thị  khác nhau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sự kiện onclick.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sự kiện onclick.html" afterDir="false" />
-    </list>
+    <list default="true" id="684a6481-ed55-488d-89dd-3989ac463dfd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +38,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667894037407</updated>
-      <workItem from="1667894038540" duration="828000" />
+      <workItem from="1667894038540" duration="1272000" />
     </task>
     <servers />
   </component>
